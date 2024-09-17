@@ -7,6 +7,9 @@ nav: False
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching:
+Biomathematics (BIOL 301) W2023
+  A foundational course in biological modelling. The course follows the textbook “Mathematical Modelling for Biologists” by Sally Otto and Troy Day. 
+Biostatistics (BIOL 300) S2023
+  A first course in statistics following the textbook “The analysis of Biological Dara” Michael Whitlock and Dolph Schluter. 
 
-Organize your courses by years, topics, or universities, however you like!
