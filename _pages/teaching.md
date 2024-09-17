@@ -3,10 +3,12 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
-nav: False
+nav: True
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Teaching at UBC:
+Biomathematics (BIOL 301) - Winter 2023 Term 1
+  A foundational course in biological modelling. The course follows the textbook “Mathematical Modelling for Biologists” by Sally Otto and Troy Day. 
+Biostatistics (BIOL 300) - Summer 2023
+  A first course in statistics following the textbook “The analysis of Biological Dara” Michael Whitlock and Dolph Schluter. 
